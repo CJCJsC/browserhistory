@@ -5,12 +5,6 @@ body {
   background-color: Ivory;
 }
 
-#navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
 #navbar li {
   display: inline;
 }
@@ -27,19 +21,4 @@ h1, h2 {
 img {
   float: left;
   margin-right: 10px;
-}
-
-.left {
-  float: left;
-  width: 300px;
-}
-
-.right {
-  float: right;
-  width: 300px;
-}
-
-.center {
-  margin-left: 550px;
-  margin-right: 550px
 }
